@@ -1,5 +1,5 @@
 package = "OAuth"
-version = "0.0.7-1"
+version = "0.0.6-1"
 source = {
 	url = "https://github.com/ignacio/LuaOAuth/archive/0.0.6-1.tar.gz",
 	dir = "LuaOAuth-0.0.6-1"
