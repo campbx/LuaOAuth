@@ -1,5 +1,5 @@
 package = "OAuth"
-version = "0.0.6-1"
+version = "0.0.7-1"
 source = {
 	url = "https://github.com/ignacio/LuaOAuth/archive/0.0.6-1.tar.gz",
 	dir = "LuaOAuth-0.0.6-1"
@@ -13,7 +13,7 @@ description = {
 	homepage = "http://github.com/ignacio/LuaOAuth"
 }
 dependencies = {
-	"lua >= 5.1, <= 5.2",
+	"lua >= 5.2",
 	"luasocket",
 	"luasec",
 	"luacrypto",
